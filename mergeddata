@@ -1,0 +1,20 @@
+user_id	item_id	Movie_title	Rating	Date	unknown	Action	Adventure	Animation	Children's	Comedy	Crime	Documentary	Drama	Fantasy	Film-Noir	Horror	Musical	Mystery	Romance	Sci-Fi	Thriller	War	Western	Short	History	Biography	Sport	Family
+10	447	Carrie (1976)	4	10/27/1997	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+890	660	Fried Green Tomatoes (1991)	2	12/24/1997	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+867	191	Amadeus (1984)	5	11/21/1997	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+5	441	Amityville Horror, The (1979)	1	10/1/1997	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+320	1052	Dracula: Dead and Loving It (1995)	2	1/14/1998	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+630	568	Speed (1994)	4	1/25/1998	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+151	414	My Favorite Year (1982)	5	11/15/1997	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+699	1061	Evening Star, The (1996)	3	11/10/1997	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+21	872	Love Jones (1997)	2	9/22/1997	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+450	33	Desperado (1995)	5	12/18/1997	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+179	302	L.A. Confidential (1997)	4	4/10/1998	0	0	0	0	0	0	1	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0
+135	581	Kalifornia (1993)	4	11/18/1997	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+314	568	Speed (1994)	5	10/26/1997	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+487	280	Up Close and Personal (1996)	5	12/30/1997	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+735	181	Return of the Jedi (1983)	4	10/13/1997	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0
+823	503	Candidate, The (1972)	5	11/2/1997	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+169	498	African Queen, The (1951)	3	3/31/1998	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0
+889	207	Cyrano de Bergerac (1990)	3	11/22/1997	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+846	497	Bringing Up Baby (1938)	5	1/5/1998	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
